@@ -1,4 +1,4 @@
-Module javascript offrant des méthodes permettant de gérer des chaines e caractères (string)
+Librairie javascript offrant des méthodes permettant de gérer des chaines e caractères (string)
 
 ## Installation
 
